@@ -15,7 +15,7 @@
     <div class="row">
         <div class="col-12">
             <div class="card">
-                <h5 class="card-header">Data Tables Artikel</h5><br>
+                <h5 class="card-header">Tables Artikel</h5><br>
                 <center>
                         <a href="{{ route('artikel.create') }}"
                             class="la la-cloud-upload btn btn-info btn-rounded btn-floating btn-outline">&nbsp;Tambah Data
